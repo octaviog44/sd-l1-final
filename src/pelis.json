@@ -1,1 +1,72 @@
-[]
+[
+    {
+        "id": 1,
+        "title": "rapido y furioso",
+        "tags": ["accion", "crimen", "drama"],
+        "director": "Rob Cohen",
+        "añoDeEstreno": 2001
+    },
+    {
+        "id": 2,
+        "title": "transformers",
+        "tags": ["accion", "ciencia ficcion"],
+        "director": "Michael Bay",
+        "añoDeEstreno": 2007
+    },
+    {
+        "id": 3,
+        "title": "Harry Potter y la piedra filosofal",
+        "tags": ["fantasia", "aventura"],
+        "director": "Chris Columbus",
+        "añoDeEstreno": 2001
+    },
+    {
+        "id": 4,
+        "title": "Los Vengadores",
+        "tags": ["accion", "ciencia ficcion"],
+        "director": "Joss Whedon",
+        "añoDeEstreno": 2012
+    },
+    {
+        "id": 5,
+        "title": "Toy Story",
+        "tags": ["animacion", "comedia", "aventura"],
+        "director": "John Lasseter",
+        "añoDeEstreno": 1995
+    },
+    {
+        "id": 6,
+        "title": "Titanic",
+        "tags": ["drama", "romance"],
+        "director": "James Cameron",
+        "añoDeEstreno": 1997
+    },
+    {
+        "id": 7,
+        "title": "Avatar",
+        "tags": ["accion", "ciencia ficcion", "aventura"],
+        "director": "James Cameron",
+        "añoDeEstreno": 2009
+    },
+    {
+        "id": 8,
+        "title": "Star Wars: Episodio IV",
+        "tags": ["ciencia ficcion", "fantasia", "aventura"],
+        "director": "George Lucas",
+        "añoDeEstreno": 1977
+    },
+    {
+        "id": 9,
+        "title": "Spider-Man",
+        "tags": ["accion", "aventura", "fantasia"],
+        "director": "Sam Raimi",
+        "añoDeEstreno": 2002
+    },
+    {
+        "id": 10,
+        "title": "Los Increíbles",
+        "tags": ["animacion", "accion", "aventura"],
+        "director": "Brad Bird",
+        "añoDeEstreno": 2004
+    }
+]
